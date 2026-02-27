@@ -36,7 +36,7 @@
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Farman-Siddiqui-Dev&show_icons=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YFarman-Siddiqui-Dev&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Farman-Siddiqui-Dev&layout=compact)
 ---
 
 ## 🌐 Connect With Me
